@@ -49,7 +49,7 @@ Although I had prior experience with JavaScript, I decided to **relearn it from 
 🧠 B.Tech CSE — 3rd Year  
 🏫 **Uttaranchal University**  
 💻 Game Dev | Web Dev | AI & Full Stack Enthusiast  
-🌐 [GitHub](https://github.com/aniket-sundriyal) | [LinkedIn](#)
+🌐 [GitHub](https://github.com/GxAniket) | [LinkedIn](www.linkedin.com/in/aniket-sundriyal)
 
 ---
 
