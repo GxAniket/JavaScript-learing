@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+</head>
+<body>
+    <h1>Guess the Number Game</h1>
+    <script>
+        let targetNumber = 50;
+        let guess;
+
+        while (guess != targetNumber) {
+            guess = parseInt(prompt("Guess the number between 1 and 100:"));
+
+            if (guess < targetNumber) {
+                alert("Too low! Try again.");
+            } else if (guess > targetNumber) {
+                alert("Too high! Try again.");
+            } else {
+                alert("🎉 Correct! You guessed it!");
+            }
+        }
+    </script>
+</body>
+</html>
