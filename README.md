@@ -1,6 +1,6 @@
 # 13 Days of JavaScript 🚀
 
-📚 This repository contains my 13-day JavaScript learning & revision journey based on **Shradha Khapra's JavaScript Full Course** from **Apna College**.
+📚 This repository contains my 13-day JavaScript learning & revision journey based on JavaScript Full Course.
 
 Although I had prior experience with JavaScript, I decided to **relearn it from scratch** to fix common mistakes, strengthen fundamentals, and build confidence through hands-on projects.
 
