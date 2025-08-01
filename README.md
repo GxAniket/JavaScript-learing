@@ -6,7 +6,7 @@ Although I had prior experience with JavaScript, I decided to **relearn it from 
 
 ---
 
-## 📅 Playlist Progress (Apna College YouTube)
+## 📅 Playlist Progress 
 
 | Day | Lecture Title                                      | Duration | Status | Mini Project / Output              |
 |-----|----------------------------------------------------|----------|--------|------------------------------------|
